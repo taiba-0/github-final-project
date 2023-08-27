@@ -4,7 +4,7 @@
    # Do not use this in production. Sample purpose only.
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <your GitHub username>
+   # taiba-0
    # Input:
    # p, principal amount
    # t, time period in years
